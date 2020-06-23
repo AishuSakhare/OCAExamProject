@@ -1,0 +1,17 @@
+
+™squid:S4165	"`Remove this useless assignment; "b2" already holds the assigned value along all execution paths.(¶éÞ’ÿÿÿÿÿ8¤Ì®’›.H«RMAJORZ
+CODE_SMELL
+€$squid:AssignmentInSubExpressionCheck	".Extract the assignment out of this expression.(¶éÞ’ÿÿÿÿÿ8¤Ì®’›.H¬RMAJORZ
+CODE_SMELL
+qsquid:S2583"DChange this condition so that it does not always evaluate to "false"(°Šðæ8¤Ì®’›.H­RMAJORZBUG
+psquid:S2589"7Remove this expression which always evaluates to "true"(¶…íßüÿÿÿÿ8¤Ì®’›.H®RMAJORZ
+CODE_SMELL
+Tsquid:S2178	"Correct this "|" to "||".(¶éÞ’ÿÿÿÿÿ8¤Ì®’›.H¯RBLOCKERZ
+CODE_SMELL
+asquid:S1125"(Remove the literal "true" boolean value.(¶…íßüÿÿÿÿ8¤Ì®’›.H°RMINORZ
+CODE_SMELL
+\squid:S1125"(Remove the literal "true" boolean value.(°Šðæ8¤Ì®’›.H±RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ8¤Ì®’›.H²RMAJORZ
+CODE_SMELL

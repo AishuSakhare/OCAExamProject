@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.capgemini.oca.set1.planet&apos; to &apos;question6planet&apos;&#x0D;&#x0A;- Original project: &apos;oca&apos;&#x0D;&#x0A;- Original element: &apos;com.capgemini.oca.set1.planet&apos;&#x0D;&#x0A;- Renamed element: &apos;com.capgemini.oca.set1.question6planet&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;planet&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.capgemini.oca.set1{planet.java[planet" matchStrategy="1" name="question6planet" qualified="false" references="true" similarDeclarations="false" stamp="1583837864922" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,20 @@
+
+¿%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(’ÁÍÌûÿÿÿÿ8‰íÙ——.HÌRMINORZ
+CODE_SMELL
+³%squid:RedundantThrowsDeclarationCheck	"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(®º¹Õ8€ÕÍ——.HÂRMINORZ
+CODE_SMELL
+€squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(’ÁÍÌûÿÿÿÿ8‰íÙ——.HËRMAJORZ
+CODE_SMELL
+q
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(ğæ°úÿÿÿÿ8€ÕÍ——.HÄRMAJORZ
+CODE_SMELL
+fsquid:S1172"-Remove this unused method parameter "cardno".(’ÁÍÌûÿÿÿÿ8¯ªË——.H¹RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(üı¨™8¯ªË——.HºRMAJORZ
+CODE_SMELL
+asquid:S1172	"-Remove this unused method parameter "cardno".(®º¹Õ8€ÕÍ——.HÃRMAJORZ
+CODE_SMELL
+{squid:S00112	"FDefine and throw a dedicated exception instead of using a generic one.(®º¹Õ8€ÕÍ——.HÁRMAJORZ
+CODE_SMELL

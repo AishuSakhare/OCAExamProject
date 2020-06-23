@@ -1,0 +1,7 @@
+
+nsquid:S1854"5Remove this useless assignment to local variable "s".(¿È¨Ìÿÿÿÿÿ8äÀ„”›.H×RMAJORZ
+CODE_SMELL
+_squid:S1481"&Remove this unused "s" local variable.(¿È¨Ìÿÿÿÿÿ8äÀ„”›.HØRMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(úéÇúþÿÿÿÿ8äÀ„”›.HÙRMAJORZ
+CODE_SMELL

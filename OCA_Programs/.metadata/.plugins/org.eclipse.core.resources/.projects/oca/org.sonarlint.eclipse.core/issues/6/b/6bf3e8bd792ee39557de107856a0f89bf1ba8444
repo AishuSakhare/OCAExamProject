@@ -1,0 +1,50 @@
+
+k
+squid:S106M"9Replace this use of System.out or System.err by a logger.(úšç&8„€ï¹.H—RMAJORZ
+CODE_SMELL
+q
+squid:S106G"9Replace this use of System.out or System.err by a logger.(¦ò¹úÿÿÿÿ8úË‡º.H˜RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(õñŞ¡ıÿÿÿÿ8‘´Ä¹.H™RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(™Ò–øÿÿÿÿ8‘´Ä¹.HšRMAJORZ
+CODE_SMELL
+q
+squid:S106&"9Replace this use of System.out or System.err by a logger.(«ºíÇûÿÿÿÿ8¯é½¹.H›RMAJORZ
+CODE_SMELL
+l
+squid:S106;"9Replace this use of System.out or System.err by a logger.(Šçéî8æé†º.HœRMAJORZ
+CODE_SMELL
+l
+squid:S106="9Replace this use of System.out or System.err by a logger.(¡Ç’’8â“Ú».HRMAJORZ
+CODE_SMELL
+q
+squid:S1062"9Replace this use of System.out or System.err by a logger.(°Ù¬šÿÿÿÿÿ8¡²Ì».HRMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(İ±Øi8‘´Ä¹.HŸRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÃŠ–ëüÿÿÿÿ8ŠâÑ¹.H RMAJORZ
+CODE_SMELL
+ƒsquid:S00100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÙ¿ç8¨ÁÓ».H¡RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ĞùÒòÿÿÿÿÿ8‘´Ä¹.H¢RMAJORZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•Èî”ùÿÿÿÿH£RMINORZ
+CODE_SMELL
+l
+squid:S106$"9Replace this use of System.out or System.err by a logger.(òùÜ°8Ö‘Ğ».H¤RMAJORZ
+CODE_SMELL
+k
+squid:S106)"9Replace this use of System.out or System.err by a logger.(á¦«i8›–™º.H¥RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÙÆûª8€œ¼¹.H¦RMAJORZ
+CODE_SMELL
+ˆsquid:S00100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÁÕÈúÿÿÿÿ8à¸ë¹.H§RMINORZ
+CODE_SMELL

@@ -1,0 +1,7 @@
+
+ksquid:S4973"9Use the "equals" method if value comparison was intended.( Ñ³¡ıÿÿÿÿ8ßš™—.HëRMAJORZBUG
+Usquid:S1643"Use a StringBuilder instead.(¤öÀúÿÿÿÿ8ßš™—.HêRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(†à²’şÿÿÿÿ8­Ç›™—.HğRMAJORZ
+CODE_SMELL

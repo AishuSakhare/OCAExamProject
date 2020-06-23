@@ -1,0 +1,9 @@
+
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°«µªHŽRMINORZ
+CODE_SMELL
+rsquid:S1854"9Remove this useless assignment to local variable "valid".(³Ó¬²ÿÿÿÿÿ8è¢äÆ˜.H—RMAJORZ
+CODE_SMELL
+csquid:S1481"*Remove this unused "valid" local variable.(³Ó¬²ÿÿÿÿÿ8è¢äÆ˜.H˜RMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‡ÆðŠ8è¢äÆ˜.H™RMAJORZ
+CODE_SMELL

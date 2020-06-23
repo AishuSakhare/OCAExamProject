@@ -1,0 +1,12 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ò¿×Ùûÿÿÿÿ8ÖÊ÷õ.HÅRMAJORZ
+CODE_SMELL
+q
+squid:S106	"9Replace this use of System.out or System.err by a logger.(Ã‘¿ïşÿÿÿÿ8Ÿë˜ö.HÈRMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Èñ«8©îõ.H¿RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine
+"<This block of commented-out lines of code should be removed.(ê¨Ù°8›öšö.HÉRMAJORZ
+CODE_SMELL

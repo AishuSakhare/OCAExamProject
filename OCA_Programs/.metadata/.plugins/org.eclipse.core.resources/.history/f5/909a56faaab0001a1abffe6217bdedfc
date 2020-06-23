@@ -1,0 +1,21 @@
+package com.capgemini.oca.corrrected;
+
+public class Question147 {
+
+}
+
+class Vehical {
+	int x;
+
+	Vehical() {
+		this(10);
+	}
+
+	Vehical(int x) {
+		this.x = x;
+	}
+}
+
+class car extends Vehical {
+
+}

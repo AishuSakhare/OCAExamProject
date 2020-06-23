@@ -1,0 +1,15 @@
+package com.capgemini.oca.corrrected;
+
+public class Question6Earcth extends Question6Planet{
+
+	@Override
+	protected void rotate() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	protected void revolve() {
+		
+	}
+	
+}

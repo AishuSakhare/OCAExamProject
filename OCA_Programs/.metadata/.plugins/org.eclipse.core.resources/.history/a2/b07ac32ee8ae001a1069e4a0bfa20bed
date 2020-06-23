@@ -1,0 +1,15 @@
+package com.capgemini.oca.corrrected;
+
+public class Question7Car extends Question7Vehical{
+
+	String trans;
+	
+	 Question7Car(String trans) {
+		 this.trans = trans;
+	}
+	Question7Car(String type, int mazSpeed , String trans) {
+		super(type, mazSpeed);
+		this(trans);
+	}
+
+}

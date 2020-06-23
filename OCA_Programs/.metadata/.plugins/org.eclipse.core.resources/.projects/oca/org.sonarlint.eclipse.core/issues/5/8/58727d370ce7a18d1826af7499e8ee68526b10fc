@@ -1,0 +1,9 @@
+
+{squid:S2153"IRemove the boxing to "Boolean"; The argument is already of the same type.(ïÅ¹«üÿÿÿÿ8Ú’œ.H¨RMINORZBUG
+Zsquid:S2129"!Remove this "Boolean" constructor(ïÅ¹«üÿÿÿÿ8Ú’œ.H©RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.( ¾¶ñ8à‘œ.H§RMAJORZ
+CODE_SMELL
+zsquid:S2130"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(©¦Ğ®ıÿÿÿÿ8Šì¤œ.H­RMINORZ
+CODE_SMELL

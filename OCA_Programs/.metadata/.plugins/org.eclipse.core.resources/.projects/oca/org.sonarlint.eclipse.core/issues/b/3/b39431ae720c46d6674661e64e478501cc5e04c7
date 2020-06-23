@@ -1,0 +1,13 @@
+
+½squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼âÜÿÿÿÿÿ8·ïšÖ–.HÍRCRITICALZ
+CODE_SMELL
+\squid:S2201"*The return value of "concat" must be used.(ÏŞì³şÿÿÿÿ8·ïšÖ–.HÎRMAJORZBUG
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8Ô‚¡Ö–.HÔRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿ8Ô‚¡Ö–.HÕRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ó°ø¥8Ô‚¡Ö–.HÖRMAJORZ
+CODE_SMELL

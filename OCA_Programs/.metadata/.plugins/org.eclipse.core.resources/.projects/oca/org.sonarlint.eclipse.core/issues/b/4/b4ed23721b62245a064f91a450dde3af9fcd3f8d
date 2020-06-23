@@ -1,0 +1,15 @@
+
+squid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(ã´¯é8áÂ€È˜.HôRMAJORZ
+CODE_SMELL
+\squid:S1481"(Remove this unused "asc" local variable.(¯©×8´¬þÇ˜.HçRMINORZ
+CODE_SMELL
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°«µªHßRMINORZ
+CODE_SMELL
+ksquid:S1854"7Remove this useless assignment to local variable "asc".(¯©×8´¬þÇ˜.HåRMAJORZ
+CODE_SMELL
+osquid:S1854"6Remove this useless assignment to local variable "sc".(Î…„´øÿÿÿÿ8™Ç…È˜.HùRMAJORZ
+CODE_SMELL
+`squid:S1481"'Remove this unused "sc" local variable.(Î…„´øÿÿÿÿ8™Ç…È˜.HúRMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ŸàáØ8™Ç…È˜.HûRMAJORZ
+CODE_SMELL

@@ -1,0 +1,20 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(§·Éìıÿÿÿÿ8›­ôõ.HÃRMAJORZ
+CODE_SMELL
+ "squid:ClassVariableVisibilityCheck"RMake amount a static final constant or non-public and provide accessors if needed.(¸®“Ø8ÀÀÛõ.HµRMINORZVULNERABILITY
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(Á²ø\8›­ôõ.HÁRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(áù¼½ıÿÿÿÿ8Õôôõ.HÄRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(•ˆâá8›­ôõ.HÂRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ï”¨Û8Œƒ•ö.HÆRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(´¥äœ8Œƒ•ö.HÇRMAJORZ
+CODE_SMELL

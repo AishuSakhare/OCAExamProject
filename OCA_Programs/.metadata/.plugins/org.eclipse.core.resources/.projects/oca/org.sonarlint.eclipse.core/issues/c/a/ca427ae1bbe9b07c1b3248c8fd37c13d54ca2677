@@ -1,0 +1,17 @@
+
+~squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥Ì²P8ãÍÖ¿—.HÎRMAJORZ
+CODE_SMELL
+Osquid:S3626"Remove this redundant jump.(ÉŠ©ƒ8Õåå¿—.HÐRMINORZ
+CODE_SMELL
+Osquid:S3626"Remove this redundant jump.(ÉŠ©ƒ8Õåå¿—.HÏRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(²ÌÇ•ýÿÿÿÿ8Á‹Í¿—.HÌRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(äóÒÏ8Þ÷Ë¿—.HËRMAJORZ
+CODE_SMELL
+q
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(ð°–£ûÿÿÿÿ8¦¼œ¿—.HÊRMAJORZ
+CODE_SMELL

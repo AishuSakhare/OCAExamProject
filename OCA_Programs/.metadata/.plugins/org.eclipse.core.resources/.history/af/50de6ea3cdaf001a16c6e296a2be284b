@@ -1,0 +1,13 @@
+package com.capgemini.oca.corrrected;
+
+public class Question43 extends Question43ACC{
+
+	public static void main(String[] args) {
+		Question43ACC obj = new Question43ACC();
+		Question43 obj2 = new Question43();
+		Question43ACC  obj3 = new Question43();
+
+	}
+}
+
+

@@ -1,0 +1,15 @@
+
+p"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ÿÇ¢±8å…²“›.HËRCRITICALZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ËÑ¸ù8Œ³“›.HÏRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ú“Üİ8å…²“›.HÎRMAJORZ
+CODE_SMELL
+€
+squid:S128	"LEnd this switch case with an unconditional break, return or throw statement.(îĞø8å…²“›.HÍRBLOCKERZ
+CODE_SMELL
+€
+squid:S128"LEnd this switch case with an unconditional break, return or throw statement.(••Çb8å…²“›.HÌRBLOCKERZ
+CODE_SMELL

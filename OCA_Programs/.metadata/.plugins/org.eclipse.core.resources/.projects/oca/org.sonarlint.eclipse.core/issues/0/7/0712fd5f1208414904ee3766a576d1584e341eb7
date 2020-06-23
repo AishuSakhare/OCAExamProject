@@ -1,0 +1,31 @@
+
+Zsquid:S1481"&Remove this unused "l" local variable.(’×÷8¦¿‚Ô–.HÃ	RMINORZ
+CODE_SMELL
+`squid:S1481"'Remove this unused "i1" local variable.(ïà¦Şúÿÿÿÿ8´ñ†Ô–.HÔ	RMINORZ
+CODE_SMELL
+[squid:S1481"'Remove this unused "s1" local variable.(Õ³½Í8®ÏšÔ–.H•
+RMINORZ
+CODE_SMELL
+Ysquid:S1481"&Remove this unused "b" local variable.(ÕÒÙV8ÿÇşÓ–.Hª	RMINORZ
+CODE_SMELL
+jsquid:S1854"6Remove this useless assignment to local variable "s1".(Õ³½Í8®ÏšÔ–.H”
+RMAJORZ
+CODE_SMELL
+Zsquid:S1481"&Remove this unused "d" local variable.(ˆ¹óó8¦¿‚Ô–.HÄ	RMINORZ
+CODE_SMELL
+`squid:S1481	"'Remove this unused "i2" local variable.(ŒÍô›øÿÿÿÿ8”·ˆÔ–.Hæ	RMINORZ
+CODE_SMELL
+„squid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(îÇËúÿÿÿÿ8Ä½ûÓ–.H‘	RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¡²—Å8Ã‘ıÓ–.H	RMAJORZ
+CODE_SMELL
+_squid:S1481"&Remove this unused "f" local variable.(¼ä‘·úÿÿÿÿ8û‰‹Ô–.Hğ	RMINORZ
+CODE_SMELL
+osquid:S1854"6Remove this useless assignment to local variable "i1".(ïà¦Şúÿÿÿÿ8´ñ†Ô–.HÓ	RMAJORZ
+CODE_SMELL
+`squid:S1481"'Remove this unused "s2" local variable.(Úéñšùÿÿÿÿ8¦¿‚Ô–.HÑ	RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ğµ—üÿÿÿÿ8ÍÿûÓ–.H˜	RMAJORZ
+CODE_SMELL

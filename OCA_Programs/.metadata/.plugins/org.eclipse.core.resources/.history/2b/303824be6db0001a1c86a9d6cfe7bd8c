@@ -1,0 +1,15 @@
+package com.capgemini.oca.corrrected;
+
+public class Question116 extends Exportable {
+
+	@Override
+	protected void abc() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+
+abstract class Exportable {
+	abstract void abc();
+}

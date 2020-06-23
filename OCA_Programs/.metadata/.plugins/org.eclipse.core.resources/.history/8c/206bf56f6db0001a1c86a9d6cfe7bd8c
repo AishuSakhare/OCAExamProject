@@ -1,0 +1,9 @@
+package com.capgemini.oca.corrrected;
+
+public class Question116 {
+
+}
+
+interface Exportable {
+	void abc();
+}

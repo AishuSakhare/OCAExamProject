@@ -1,0 +1,28 @@
+
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶»°è8ø¤ÄÖ–.HßRMAJORZ
+CODE_SMELL
+psquid:S1226
+">Introduce a new variable instead of reusing the parameter "y".(òé„®üÿÿÿÿ8ñš²Ö–.HÚRMINORZBUG
+isquid:S1854	"5Remove this useless assignment to local variable "x".(œÞ‡Ï8Í¢ÒÖ–.HíRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Îˆ•üýÿÿÿÿ8ø¤ÄÖ–.HàRMAJORZ
+CODE_SMELL
+isquid:S2209"5Change this instance-reference to a static reference.(Ð€ÂÚ8úˆÑÖ–.HçRMAJORZ
+CODE_SMELL
+\squid:S1656	"/Remove or correct this useless self-assignment.(œÞ‡Ï8Í¢ÒÖ–.HîRMAJORZBUG
+nsquid:S1854
+"5Remove this useless assignment to local variable "y".(òé„®üÿÿÿÿ8ñš²Ö–.HÛRMAJORZ
+CODE_SMELL
+isquid:S2209"5Change this instance-reference to a static reference.(’Í³»8úˆÑÖ–.HæRMAJORZ
+CODE_SMELL
+nsquid:S2209
+"5Change this instance-reference to a static reference.(òé„®üÿÿÿÿ8úˆÑÖ–.HåRMAJORZ
+CODE_SMELL
+“squid:S4165	"_Remove this useless assignment; "x" already holds the assigned value along all execution paths.(œÞ‡Ï8Í¢ÒÖ–.HìRMAJORZ
+CODE_SMELL
+nsquid:S2209"5Change this instance-reference to a static reference.(Ù´—¼ûÿÿÿÿ8´†ÓÖ–.HõRMAJORZ
+CODE_SMELL
+isquid:S2209"5Change this instance-reference to a static reference.(Ð€ÂÚ8´†ÓÖ–.HöRMAJORZ
+CODE_SMELL

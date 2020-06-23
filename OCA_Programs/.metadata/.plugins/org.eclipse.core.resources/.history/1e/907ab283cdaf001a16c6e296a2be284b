@@ -1,0 +1,16 @@
+package com.capgemini.oca.corrrected;
+
+public class Question43 {
+
+	public static void main(String[] args) {
+		
+	}
+}
+
+class Question43ACC{
+	private int s;
+	int p;
+	protected int q;
+	public int r;
+	
+}

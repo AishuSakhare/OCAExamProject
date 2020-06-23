@@ -1,0 +1,22 @@
+
+{squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(È…£‹8Î‚Ó÷.HËRMAJORZ
+CODE_SMELL
+q
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(ÙúïÓøÿÿÿÿ8Î‚Ó÷.HÒRMAJORZ
+CODE_SMELL
+fsquid:S1172	"-Remove this unused method parameter "cardno".(…“ÄŸùÿÿÿÿ8Î‚Ó÷.HÎRMAJORZ
+CODE_SMELL
+€squid:S00112	"FDefine and throw a dedicated exception instead of using a generic one.(…“ÄŸùÿÿÿÿ8›şİ÷.HáRMAJORZ
+CODE_SMELL
+º%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(È…£‹8Î‚Ó÷.HÍRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ô¶ÌÄÿÿÿÿÿ8Î‚Ó÷.HÏRMAJORZ
+CODE_SMELL
+¸%squid:RedundantThrowsDeclarationCheck	"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(…“ÄŸùÿÿÿÿ8›şİ÷.HâRMINORZ
+CODE_SMELL
+asquid:S1172"-Remove this unused method parameter "cardno".(È…£‹8Î‚Ó÷.HÑRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ßì8³°Ş÷.HãRMAJORZ
+CODE_SMELL

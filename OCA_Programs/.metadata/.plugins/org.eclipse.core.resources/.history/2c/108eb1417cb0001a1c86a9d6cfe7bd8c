@@ -1,0 +1,24 @@
+package com.capgemini.oca.corrrected;
+
+public class Question119 {
+
+}
+
+class c2 {
+	public void displayC2() {
+		System.out.println("......from c2");
+	}
+}
+
+interface i {
+	public void displayI();
+}
+
+class c1 extends c2 implements i {
+
+	@Override
+	public void displayI() {
+		System.out.println(".......from c1");
+	}
+
+}

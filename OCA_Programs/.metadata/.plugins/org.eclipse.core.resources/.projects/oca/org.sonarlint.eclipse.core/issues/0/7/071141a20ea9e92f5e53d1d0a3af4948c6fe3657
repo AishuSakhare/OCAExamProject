@@ -1,0 +1,17 @@
+
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Γ¨8³γώτ.H™RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ΰ…£8ΐχετ.HRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ΩοΩΫωÿÿÿÿ8χ‹Κτ.HυRMAJORZ
+CODE_SMELL
+squid:S2159
+"VRemove this call to "equals"; comparisons between unrelated types always return false.(Òώ’ύÿÿÿÿ8χ‹Κτ.HρRMAJORZBUG
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(γέογ8χ‹Κτ.HώRMAJORZ
+CODE_SMELL
+xsquid:S1858"D"s" is already a string, there's no need to call "toString()" on it.(λ°Ζτ8™κ€υ.HRMINORZ
+CODE_SMELL

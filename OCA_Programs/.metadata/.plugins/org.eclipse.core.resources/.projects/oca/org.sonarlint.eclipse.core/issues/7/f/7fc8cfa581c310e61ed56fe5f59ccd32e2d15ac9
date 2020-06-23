@@ -1,0 +1,24 @@
+
+jsquid:S1854"6Remove this useless assignment to local variable "l1".(¹ßÕı8ûëØÃ˜.H×RMAJORZ
+CODE_SMELL
+_squid:S1905"&Remove this unnecessary cast to "int".(àï·úÿÿÿÿ8ûëØÃ˜.HÙRMINORZ
+CODE_SMELL
+`squid:S1481"'Remove this unused "i1" local variable.(àï·úÿÿÿÿ8ûëØÃ˜.HÛRMINORZ
+CODE_SMELL
+osquid:S1854"6Remove this useless assignment to local variable "i1".(àï·úÿÿÿÿ8ûëØÃ˜.HØRMAJORZ
+CODE_SMELL
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÚÌÀòHÑRMINORZ
+CODE_SMELL
+[squid:S1481"'Remove this unused "l1" local variable.(¹ßÕı8ûëØÃ˜.HÜRMINORZ
+CODE_SMELL
+jsquid:S1854"6Remove this useless assignment to local variable "b1".(‚Æ«8›®ßÃ˜.HáRMAJORZ
+CODE_SMELL
+[squid:S1481"'Remove this unused "b1" local variable.(‚Æ«8›®ßÃ˜.HâRMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine
+"<This block of commented-out lines of code should be removed.(ã‡Óüÿÿÿÿ8›®ßÃ˜.HãRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(„ ¯ã8›®ßÃ˜.HäRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ˆı™ñ8›®ßÃ˜.HåRMAJORZ
+CODE_SMELL

@@ -1,0 +1,23 @@
+
+\squid:S1481"(Remove this unused "arr" local variable.(Š±ÎÉ8£™üÅ˜.HÕRMINORZ
+CODE_SMELL
+]squid:S1481")Remove this unused "arr2" local variable.(¢Å‡Æ8£™üÅ˜.HÖRMINORZ
+CODE_SMELL
+lsquid:S1854"8Remove this useless assignment to local variable "arr2".(¢Å‡Æ8£™üÅ˜.HÒRMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ü¨æøúÿÿÿÿ8£™üÅ˜.HØRMAJORZ
+CODE_SMELL
+lsquid:S1854
+"8Remove this useless assignment to local variable "arr3".(–Ý‹Ü8£™üÅ˜.HÑRMAJORZ
+CODE_SMELL
+ksquid:S1854"7Remove this useless assignment to local variable "arr".(Š±ÎÉ8£™üÅ˜.HÓRMAJORZ
+CODE_SMELL
+]squid:S1481
+")Remove this unused "arr3" local variable.(–Ý‹Ü8£™üÅ˜.H×RMINORZ
+CODE_SMELL
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÚÌÀòHËRMINORZ
+CODE_SMELL
+lsquid:S1197"8Move the array designator from the variable to the type.(Š±ÎÉ8£™üÅ˜.HÔRMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ú±ò¨8ØäýÅ˜.HÞRMAJORZ
+CODE_SMELL

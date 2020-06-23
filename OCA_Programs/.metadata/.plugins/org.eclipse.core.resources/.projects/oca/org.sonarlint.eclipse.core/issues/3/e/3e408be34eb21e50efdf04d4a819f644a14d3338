@@ -1,0 +1,13 @@
+
+osquid:S2094"BRemove this empty class, write its code or make it an "interface".(Ã™ÄÏHÓ RMINORZ
+CODE_SMELL
+osquid:S2094"BRemove this empty class, write its code or make it an "interface".(´›Ç×HÔ RMINORZ
+CODE_SMELL
+tsquid:S2094"BRemove this empty class, write its code or make it an "interface".(á³ŒúÿÿÿÿHÕ RMINORZ
+CODE_SMELL
+csquid:S1610"1Convert the abstract class "C" into an interface.(á³ŒúÿÿÿÿHÖ RMINORZ
+CODE_SMELL
+tsquid:S2094"BRemove this empty class, write its code or make it an "interface".(ÉÇ™ÔùÿÿÿÿHÒ RMINORZ
+CODE_SMELL
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤÷¤ıHÑ RMINORZ
+CODE_SMELL

@@ -1,0 +1,9 @@
+
+Zsquid:S1172"&Remove these unused method parameters.(æöí«8Ã„éÅ˜.HÂRMAJORZ
+CODE_SMELL
+^squid:S1481"+Remove this unused "result" local variable.(™’•8ÇÉãÅ˜.H¸RMINORZ
+CODE_SMELL
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÚÌÀòH¯RMINORZ
+CODE_SMELL
+nsquid:S1854":Remove this useless assignment to local variable "result".(’Í´Ž8ÇÉãÅ˜.H·RMAJORZ
+CODE_SMELL

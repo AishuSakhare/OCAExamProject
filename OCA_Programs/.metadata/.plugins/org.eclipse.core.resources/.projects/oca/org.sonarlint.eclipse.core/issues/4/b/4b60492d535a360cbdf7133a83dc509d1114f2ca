@@ -1,0 +1,11 @@
+
+]squid:S1940")Use the opposite operator ("<=") instead.(ÍÔŒ€8´Ã’›.H·RMINORZ
+CODE_SMELL
+Osquid:S2178"Correct this "|" to "||".(¡‡ªŸ8´Ã’›.H¶RBLOCKERZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(“§Íõûÿÿÿÿ8´Ã’›.H¸RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(àáî¦øÿÿÿÿ8¸ÜÅ’›.H»RMAJORZ
+CODE_SMELL

@@ -1,0 +1,18 @@
+package com.capgemini.oca.corrrected;
+
+public class Question24 {
+
+	public static void main(String[] args) {
+		String[][] chs = new String[2][];
+		chs[0] = new String[2];
+		chs[1] = new String [5];
+		int i=97;
+		
+		for (String[] strings : chs) {
+			System.out.println(strings);
+			for (String strings2 : strings) {
+				System.out.println(strings2);
+			}
+		}
+	}
+}

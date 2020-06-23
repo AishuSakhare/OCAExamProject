@@ -1,0 +1,24 @@
+
+Ssquid:S1659	"Declare "h" on a separate line.(‘–¨Ï8¼«‘Ê.HüRMINORZ
+CODE_SMELL
+nsquid:S1854"5Remove this useless assignment to local variable "h".(ÜÒóÂøÿÿÿÿ8µª’Ê.HıRMAJORZ
+CODE_SMELL
+Zsquid:S1481	"&Remove this unused "h" local variable.(‘–¨Ï8µª’Ê.HşRMINORZ
+CODE_SMELL
+Ssquid:S1659"Declare "h" on a separate line.(å¹´Ü8¼«‘Ê.HÿRMINORZ
+CODE_SMELL
+Ssquid:S1659	"Declare "b" on a separate line.(‘–¨Ï8¼«‘Ê.H€RMINORZ
+CODE_SMELL
+nsquid:S1854"5Remove this useless assignment to local variable "p".(Ìò“öüÿÿÿÿ8µª’Ê.HRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(àïğœ8µª’Ê.H‚RMAJORZ
+CODE_SMELL
+nsquid:S1854"5Remove this useless assignment to local variable "b".(ßûæ–ûÿÿÿÿ8µª’Ê.HƒRMAJORZ
+CODE_SMELL
+Zsquid:S1481	"&Remove this unused "p" local variable.(‘–¨Ï8µª’Ê.H„RMINORZ
+CODE_SMELL
+Zsquid:S1481	"&Remove this unused "b" local variable.(‘–¨Ï8µª’Ê.H…RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŞºÖ8¼«‘Ê.H†RMAJORZ
+CODE_SMELL

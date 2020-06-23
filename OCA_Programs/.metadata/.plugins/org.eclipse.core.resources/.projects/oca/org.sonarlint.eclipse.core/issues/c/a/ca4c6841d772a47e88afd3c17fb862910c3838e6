@@ -1,0 +1,10 @@
+
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¼Ó¿œýÿÿÿÿ8½µÄê—.H¡RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.( †³ƒ8ïý¸ê—.H›RMAJORZ
+CODE_SMELL
+isquid:S1854	"5Remove this useless assignment to local variable "a".(âÞÏè8ïý¸ê—.HšRMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(„ƒ™üÿÿÿÿ8¹“Æê—.H¢RMAJORZ
+CODE_SMELL

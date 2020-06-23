@@ -1,0 +1,11 @@
+
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾ìğŸûÿÿÿÿHíRMINORZ
+CODE_SMELL
+vsquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8áÓä—™.HùRMINORZ
+CODE_SMELL
+l
+squid:S106	"9Replace this use of System.out or System.err by a logger.(°Ø³8ïµâ—™.HñRMAJORZ
+CODE_SMELL
+gsquid:S3518	"7Make sure "x" can't be zero before doing this division.(°Ø³8¨íè—™.HüRCRITICALZBUG
+¶%squid:RedundantThrowsDeclarationCheck"hRemove the declaration of thrown exception 'java.lang.ArithmeticException' which is a runtime exception.(ÜıÚ¡8â·÷—™.HÿRMINORZ
+CODE_SMELL

@@ -1,0 +1,35 @@
+
+bsquid:S1481")Remove this unused "obj3" local variable.(™å£çşÿÿÿÿ8Óè¥£˜.HèRMINORZ
+CODE_SMELL
+qsquid:S1854"8Remove this useless assignment to local variable "obj4".(Œñ§§üÿÿÿÿ8äÁ²£˜.HRMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(íÑãüÿÿÿÿ8éğ§£˜.HíRMAJORZ
+CODE_SMELL
+lsquid:S1197"8Move the array designator from the variable to the type.(š£Ùæ8â¢£˜.HÜRMINORZ
+CODE_SMELL
+lsquid:S1854"8Remove this useless assignment to local variable "obj1".(š£Ùæ8â¢£˜.HÛRMAJORZ
+CODE_SMELL
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÚÌÀòHØRMINORZ
+CODE_SMELL
+qsquid:S1197"8Move the array designator from the variable to the type.(™å£çşÿÿÿÿ8Óè¥£˜.HçRMINORZ
+CODE_SMELL
+qsquid:S1197"8Move the array designator from the variable to the type.(Œñ§§üÿÿÿÿ8äÁ²£˜.H‚RMINORZ
+CODE_SMELL
+bsquid:S1481	")Remove this unused "obj2" local variable.(Àß½Çûÿÿÿÿ8·¤£˜.HâRMINORZ
+CODE_SMELL
+qsquid:S1854	"8Remove this useless assignment to local variable "obj2".(Àß½Çûÿÿÿÿ8·¤£˜.HàRMAJORZ
+CODE_SMELL
+bsquid:S1481")Remove this unused "obj4" local variable.(Œñ§§üÿÿÿÿ8äÁ²£˜.HƒRMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(™›±áşÿÿÿÿ8½¬­£˜.HøRMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ç‰èıÿÿÿÿ8ÎÉ­£˜.HüRMAJORZ
+CODE_SMELL
+qsquid:S1197	"8Move the array designator from the variable to the type.(Àß½Çûÿÿÿÿ8·¤£˜.HáRMINORZ
+CODE_SMELL
+]squid:S1481")Remove this unused "obj1" local variable.(š£Ùæ8â¢£˜.HİRMINORZ
+CODE_SMELL
+qsquid:S1854"8Remove this useless assignment to local variable "obj3".(™å£çşÿÿÿÿ8Óè¥£˜.HæRMAJORZ
+CODE_SMELL
+Ysquid:S2129" Remove this "String" constructor(Œñ§§üÿÿÿÿ8‡¬¹£˜.H RMAJORZ
+CODE_SMELL

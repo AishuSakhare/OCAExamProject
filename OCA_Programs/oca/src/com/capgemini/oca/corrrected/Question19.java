@@ -1,0 +1,20 @@
+package com.capgemini.oca.corrrected;
+
+public class Question19 {
+
+	void readCard(int cardno) throws Exception{
+		System.out.println("read card");
+	}
+	
+	void checkCard(int cardno) throws RuntimeException{
+		System.out.println("check card");
+		
+	}
+	
+	public static void main(String[] args) {
+		Question19 obj = new Question19();
+		int cardno = 1234;
+		obj.checkCard(cardno);
+		//obj.readCard(cardno); // error
+	}
+}

@@ -1,0 +1,11 @@
+
+^squid:S00108")Either remove or fill this block of code.(⁄Ó¯õ8ö“˜£ò.HûRMAJORZ
+CODE_SMELL
+osquid:S2094"BRemove this empty class, write its code or make it an "interface".(Ô¿“±HâRMINORZ
+CODE_SMELL
+µ%squid:RedundantThrowsDeclarationCheck"gRemove the declaration of thrown exception 'java.lang.ClassCastException' which is a runtime exception.(Å¸‹◊8Á Û£ò.HãRMINORZ
+CODE_SMELL
+àsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(⁄Ã¿ÚHàRMINORZ
+CODE_SMELL
+∏squid:S1186"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Å¸‹◊8Á Û£ò.HäRCRITICALZ
+CODE_SMELL

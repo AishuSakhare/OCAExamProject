@@ -1,0 +1,13 @@
+
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ØÙ¢ÙHéRMAJORZ
+CODE_SMELL
+isquid:S2583
+"CChange this condition so that it does not always evaluate to "true"(“¨ˇ£HçRMAJORZBUG
+qsquid:S3358
+"DExtract this nested ternary operation into an independent statement.(“¨ˇ£HêRMAJORZ
+CODE_SMELL
+bsquid:S1854	"5Remove this useless assignment to local variable "x".(‰Ë›¢HèRMAJORZ
+CODE_SMELL
+Ñsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(≈à∏µ˛ˇˇˇˇ8¢î’Èó.HìRMAJORZ
+CODE_SMELL

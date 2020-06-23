@@ -1,0 +1,7 @@
+
+Isquid:S2225
+"Return empty string instead.(¥¹ï8ªÜâ¸œ.H‰"RMAJORZBUG
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤÷¤ıH„"RMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(È¿„–8«”é¸œ.H‘"RMAJORZ
+CODE_SMELL

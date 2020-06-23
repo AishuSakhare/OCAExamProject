@@ -1,0 +1,21 @@
+
+psquid:S1854
+"7Remove this useless assignment to local variable "ans".(óÇĞ ûÿÿÿÿ8§ºıÅ—.H“RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(£ÆÏÁ8™‹şÅ—.H—RMAJORZ
+CODE_SMELL
+psquid:S1854"7Remove this useless assignment to local variable "ans".(Ÿ €àÿÿÿÿÿ8§ºıÅ—.H’RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(æş–_8ûÚúÅ—.HRMAJORZ
+CODE_SMELL
+nsquid:S3518
+"9Make sure "div" can't be zero before doing this division.(óÇĞ ûÿÿÿÿ8ûÚúÅ—.HRCRITICALZBUG
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(µõÅ8§ºıÅ—.H•RMAJORZ
+CODE_SMELL
+\squid:S1481"(Remove this unused "ans" local variable.(·¨İ8§ºıÅ—.H”RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ÿ €àÿÿÿÿÿ8í’ÿÅ—.H™RMAJORZ
+CODE_SMELL

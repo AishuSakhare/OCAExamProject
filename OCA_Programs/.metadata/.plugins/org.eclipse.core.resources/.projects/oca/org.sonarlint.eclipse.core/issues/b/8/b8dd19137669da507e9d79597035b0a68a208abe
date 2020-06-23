@@ -1,0 +1,22 @@
+
+Xsquid:S1659"Declare "b" on a separate line.(ζ‚ιώÿÿÿÿ8™β².HRMINORZ
+CODE_SMELL
+Xsquid:S1659"Declare "h" on a separate line.(ζ‚ιώÿÿÿÿ8™β².HRMINORZ
+CODE_SMELL
+Ssquid:S1659"Declare "h" on a separate line.(εΉ΄ά8™β².H‹RMINORZ
+CODE_SMELL
+nsquid:S1854"5Remove this useless assignment to local variable "p".(Μς“φόÿÿÿÿ8Ύ½.H‘RMAJORZ
+CODE_SMELL
+nsquid:S1854"5Remove this useless assignment to local variable "h".(άÒσΒψÿÿÿÿ8Ύ½.H’RMAJORZ
+CODE_SMELL
+nsquid:S1854
+"5Remove this useless assignment to local variable "b".(ίϋζ–ϋÿÿÿÿ8Ύ½.H“RMAJORZ
+CODE_SMELL
+_squid:S1481"&Remove this unused "p" local variable.(ζ‚ιώÿÿÿÿ8Ύ½.H”RMINORZ
+CODE_SMELL
+_squid:S1481"&Remove this unused "b" local variable.(ζ‚ιώÿÿÿÿ8Ύ½.H•RMINORZ
+CODE_SMELL
+_squid:S1481"&Remove this unused "h" local variable.(ζ‚ιώÿÿÿÿ8Ύ½.H–RMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ΰοπ8Ύ½.H—RMAJORZ
+CODE_SMELL

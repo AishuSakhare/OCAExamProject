@@ -1,0 +1,14 @@
+package com.capgemini.oca.corrrected;
+
+public class Question131 {
+
+	int a1;
+
+	public static void product(int a) {
+		a = a * a;
+	}
+
+	public static void string(StringBuilder sb) {
+		sb.append(" " + sb);
+	}
+}

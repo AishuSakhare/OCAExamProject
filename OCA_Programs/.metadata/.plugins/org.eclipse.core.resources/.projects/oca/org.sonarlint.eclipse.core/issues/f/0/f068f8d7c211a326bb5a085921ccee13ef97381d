@@ -1,0 +1,7 @@
+
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÚÌÀòHæRMINORZ
+CODE_SMELL
+qsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ßİåÃ˜.HèRMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(í”‡Ñ8ßİåÃ˜.HéRMAJORZ
+CODE_SMELL

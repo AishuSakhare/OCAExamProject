@@ -1,0 +1,6 @@
+
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•Èî”ùÿÿÿÿHÎRMINORZ
+CODE_SMELL
+›"squid:ClassVariableVisibilityCheck"MMake s a static final constant or non-public and provide accessors if needed.(±¸¡í8ºÚõ——.HÑRMINORZVULNERABILITY
+Ysquid:S1068"%Remove this unused "q" private field.(±Ğáš8ºÚõ——.HÒRMAJORZ
+CODE_SMELL

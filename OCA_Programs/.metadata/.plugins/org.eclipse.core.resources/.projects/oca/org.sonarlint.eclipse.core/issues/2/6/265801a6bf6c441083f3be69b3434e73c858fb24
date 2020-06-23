@@ -1,0 +1,19 @@
+
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾ìğŸûÿÿÿÿH½RMINORZ
+CODE_SMELL
+Tsquid:S2178	"Correct this "|" to "||".(¶éŞ’ÿÿÿÿÿ8Æ‚¦˜™.HÃRBLOCKERZ
+CODE_SMELL
+asquid:S1125"(Remove the literal "true" boolean value.(¶…íßüÿÿÿÿ8Æ‚¦˜™.HÄRMINORZ
+CODE_SMELL
+qsquid:S2583"DChange this condition so that it does not always evaluate to "false"(°Šğæ8Æ‚¦˜™.HÁRMAJORZBUG
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8Æ‚¦˜™.HÆRMAJORZ
+CODE_SMELL
+psquid:S2589"7Remove this expression which always evaluates to "true"(¶…íßüÿÿÿÿ8Æ‚¦˜™.HÂRMAJORZ
+CODE_SMELL
+\squid:S1125"(Remove the literal "true" boolean value.(°Šğæ8Æ‚¦˜™.HÅRMINORZ
+CODE_SMELL
+™squid:S4165	"`Remove this useless assignment; "b2" already holds the assigned value along all execution paths.(¶éŞ’ÿÿÿÿÿ8×¡ª˜™.HÉRMAJORZ
+CODE_SMELL
+€$squid:AssignmentInSubExpressionCheck	".Extract the assignment out of this expression.(¶éŞ’ÿÿÿÿÿ8×¡ª˜™.HÊRMAJORZ
+CODE_SMELL

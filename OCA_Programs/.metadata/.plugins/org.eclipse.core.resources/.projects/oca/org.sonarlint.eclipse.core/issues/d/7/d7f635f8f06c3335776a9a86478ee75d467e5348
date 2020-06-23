@@ -1,0 +1,20 @@
+
+»%squid:RedundantThrowsDeclarationCheck	"hRemove the declaration of thrown exception 'java.lang.ArithmeticException' which is a runtime exception.(âÓö¨şÿÿÿÿ8÷É…»‘.H§RMINORZ
+CODE_SMELL
+fsquid:S1172	"-Remove this unused method parameter "cardNo".(âÓö¨şÿÿÿÿ8Æùº‘.H©RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(üı¨™8ªƒûº‘.HªRMAJORZ
+CODE_SMELL
+k
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(º©È8Æùº‘.H¬RMAJORZ
+CODE_SMELL
+asquid:S1172"-Remove this unused method parameter "cardNo".(œ±âø8ªƒûº‘.H«RMAJORZ
+CODE_SMELL
+{squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(œ±âø8¾®¼ú—.H°RMAJORZ
+CODE_SMELL
+º%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(œ±âø8¾®¼ú—.H±RMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ÿ ¿Ù8¾®¼ú—.H²RMAJORZ
+CODE_SMELL

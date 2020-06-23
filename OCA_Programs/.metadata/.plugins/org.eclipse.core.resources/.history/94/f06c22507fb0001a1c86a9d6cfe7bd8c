@@ -1,0 +1,10 @@
+package com.capgemini.oca.finalprogram.Question31Pants;
+
+import static com.capgemini.oca.finalprogram.Question31Shirt.getColor;
+public class Question31Jeans {
+
+	public void matchShirt() {
+		//String color =
+		
+	}
+}

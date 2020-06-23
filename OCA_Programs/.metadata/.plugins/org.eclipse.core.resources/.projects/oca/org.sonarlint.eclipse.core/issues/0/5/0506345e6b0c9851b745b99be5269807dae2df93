@@ -1,0 +1,9 @@
+
+osquid:S1854	"6Remove this useless assignment to local variable "s3".(Åšþ´ûÿÿÿÿ8’ûùù—.H‹RMAJORZ
+CODE_SMELL
+`squid:S1481	"'Remove this unused "s3" local variable.(Åšþ´ûÿÿÿÿ8’ûùù—.HŒRMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(£ôáÃÿÿÿÿÿ8’ûùù—.HRMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(õÚ‘°øÿÿÿÿ8’ûùù—.HŽRMAJORZ
+CODE_SMELL

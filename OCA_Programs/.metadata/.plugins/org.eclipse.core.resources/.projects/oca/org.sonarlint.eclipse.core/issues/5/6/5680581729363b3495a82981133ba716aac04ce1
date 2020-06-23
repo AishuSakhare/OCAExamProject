@@ -1,0 +1,11 @@
+
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÎÐ·÷úÿÿÿÿ8°é¬ì—.H¹RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8°é¬ì—.HºRMAJORZ
+CODE_SMELL
+osquid:S2094"BRemove this empty class, write its code or make it an "interface".(ØòÏ˜H©RMINORZ
+CODE_SMELL
+¸squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(à°ƒÜ8æ‘¬ì—.H¶RCRITICALZ
+CODE_SMELL
+jsquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8œÙ­ì—.H½RINFOZ
+CODE_SMELL

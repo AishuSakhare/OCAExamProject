@@ -1,0 +1,25 @@
+
+‹squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é‹™­úÿÿÿÿ8ı³›.H¼RMINORZ
+CODE_SMELL
+`squid:S1481"'Remove this unused "L1" local variable.(é‹™­úÿÿÿÿ8ı³›.HÂRMINORZ
+CODE_SMELL
+[squid:S1481"'Remove this unused "s2" local variable.( †‡Å8ı³›.HÃRMINORZ
+CODE_SMELL
+[squid:S1481	"'Remove this unused "b2" local variable.(·ÛïÁ8ğä ›.HÏRMINORZ
+CODE_SMELL
+jsquid:S1854	"6Remove this useless assignment to local variable "b2".(·ÛïÁ8ğä ›.HÎRMAJORZ
+CODE_SMELL
+jsquid:S1854"6Remove this useless assignment to local variable "s2".( †‡Å8ı³›.HÀRMAJORZ
+CODE_SMELL
+osquid:S1854"6Remove this useless assignment to local variable "L1".(é‹™­úÿÿÿÿ8ı³›.HÁRMAJORZ
+CODE_SMELL
+`squid:S1481
+"'Remove this unused "i2" local variable.(İíŒÏüÿÿÿÿ8ı³›.HÅRMINORZ
+CODE_SMELL
+osquid:S1854
+"6Remove this useless assignment to local variable "i2".(İíŒÏüÿÿÿÿ8ı³›.H¾RMAJORZ
+CODE_SMELL
+osquid:S1854"6Remove this useless assignment to local variable "b3".(ûßÖÔıÿÿÿÿ8ı³›.H½RMAJORZ
+CODE_SMELL
+`squid:S1481"'Remove this unused "b3" local variable.(ûßÖÔıÿÿÿÿ8ı³›.HÆRMINORZ
+CODE_SMELL

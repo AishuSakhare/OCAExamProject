@@ -1,0 +1,11 @@
+
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾ìğŸûÿÿÿÿH³RMINORZ
+CODE_SMELL
+‘
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.( ˆÚüÿÿÿÿ8ØÚ•™.HµRMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ºè÷È8ØÚ•™.H·RMAJORZ
+CODE_SMELL
+„ squid:LabelsShouldNotBeUsedCheck";Refactor the code to remove this label and the need for it.(İ®‡ë8—Øİ•™.H¸RMAJORZ
+CODE_SMELL

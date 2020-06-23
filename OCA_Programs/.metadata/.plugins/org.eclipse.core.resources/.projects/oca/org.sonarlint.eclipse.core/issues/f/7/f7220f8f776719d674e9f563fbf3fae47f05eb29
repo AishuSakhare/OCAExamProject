@@ -1,0 +1,22 @@
+
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°«µªHªRMINORZ
+CODE_SMELL
+tsquid:S2094"BRemove this empty class, write its code or make it an "interface".(Ã…ÆûþÿÿÿÿH«RMINORZ
+CODE_SMELL
+gsquid:S1118":Add a private constructor to hide the implicit public one.(±ÿÄÉH¬RMAJORZ
+CODE_SMELL
+Xsquid:S1172"+Remove this unused method parameter "args".(²öë H­RMAJORZ
+CODE_SMELL
+msquid:S1854	";Remove this useless assignment to local variable "speakIT".(±¶´ÓÿÿÿÿÿH®RMAJORZ
+CODE_SMELL
+Zsquid:S1905"(Remove this unnecessary cast to "Truth".(í‡–¢ýÿÿÿÿH¯RMINORZ
+CODE_SMELL
+Zsquid:S1905"(Remove this unnecessary cast to "Truth".(í½þªÿÿÿÿÿH°RMINORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ê¯ƒßýÿÿÿÿH±RMAJORZ
+CODE_SMELL
+asquid:EmptyStatementUsageCheck"Remove this empty statement.(ôŸŽìúÿÿÿÿH²RMINORZ
+CODE_SMELL
+^squid:S1481	",Remove this unused "speakIT" local variable.(±¶´ÓÿÿÿÿÿH³RMINORZ
+CODE_SMELL

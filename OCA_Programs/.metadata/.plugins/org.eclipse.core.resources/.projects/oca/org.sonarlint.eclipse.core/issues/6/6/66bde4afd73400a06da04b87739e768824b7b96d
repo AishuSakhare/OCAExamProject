@@ -1,0 +1,15 @@
+
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤χ¤ύHχ RMINORZ
+CODE_SMELL
+asquid:S1481"(Remove this unused "_8_" local variable.(―ο‰£ωÿÿÿÿ8Υ¬‹.Hÿ RMINORZ
+CODE_SMELL
+gsquid:S1481".Remove this unused "nd34tName" local variable.(το κόÿÿÿÿ8Χμ‹.Hϋ RMINORZ
+CODE_SMELL
+‹squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(―ο‰£ωÿÿÿÿ8Υ¬‹.Hώ RMINORZ
+CODE_SMELL
+‹squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¥¬»ώÿÿÿÿ8‡Γ‹.H‡!RMINORZ
+CODE_SMELL
+bsquid:S1481")Remove this unused "name" local variable.(ϊΜσÿÿÿÿÿ8‡Γ‹.H!RMINORZ
+CODE_SMELL
+_squid:S1481"&Remove this unused "$" local variable.(‚¥¬»ώÿÿÿÿ8‡Γ‹.H‰!RMINORZ
+CODE_SMELL

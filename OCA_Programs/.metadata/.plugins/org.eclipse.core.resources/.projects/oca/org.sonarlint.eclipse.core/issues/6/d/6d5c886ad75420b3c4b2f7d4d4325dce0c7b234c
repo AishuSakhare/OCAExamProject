@@ -1,0 +1,11 @@
+
+[squid:S1481"'Remove this unused "e2" local variable.(ØÆÊ”8‡Ï³¢Ž.HêRMINORZ
+CODE_SMELL
+[squid:S1481"'Remove this unused "e3" local variable.(÷­¶­8øï·¢Ž.HîRMINORZ
+CODE_SMELL
+jsquid:S1854"6Remove this useless assignment to local variable "e2".(ØÆÊ”8‡Ï³¢Ž.HéRMAJORZ
+CODE_SMELL
+jsquid:S1854"6Remove this useless assignment to local variable "e3".(÷­¶­8øï·¢Ž.HíRMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ø‚´Ôþÿÿÿÿ8èÙ¸¢Ž.HñRMAJORZ
+CODE_SMELL

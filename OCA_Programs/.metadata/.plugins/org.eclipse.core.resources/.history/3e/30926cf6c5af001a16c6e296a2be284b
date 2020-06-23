@@ -1,0 +1,14 @@
+package com.capgemini.oca.corrrected;
+
+public class Question42 {
+
+	public static String abc(String creadit) {
+		String x= "xxxx-xxxx-xxxx-";
+		return x;
+		
+	}
+	
+	public static void main(String[] args) {
+		System.out.println(abc("1234-1234-1234-1234"));
+	}
+}

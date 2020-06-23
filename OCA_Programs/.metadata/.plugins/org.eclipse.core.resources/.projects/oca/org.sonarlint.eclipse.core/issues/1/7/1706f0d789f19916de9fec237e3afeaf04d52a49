@@ -1,0 +1,12 @@
+
+‚squid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(•Ü‚8œİœ¤˜.H½RMINORZ
+CODE_SMELL
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÚÌÀòH´RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÈÚø’ıÿÿÿÿ8µ ¤˜.HÄRMAJORZ
+CODE_SMELL
+asquid:S1068"(Remove this unused "page" private field.(ñ¨»şÿÿÿÿ8¶½£¤˜.HÇRMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¢ê€ıÿÿÿÿ8¶½£¤˜.HÈRMAJORZ
+CODE_SMELL

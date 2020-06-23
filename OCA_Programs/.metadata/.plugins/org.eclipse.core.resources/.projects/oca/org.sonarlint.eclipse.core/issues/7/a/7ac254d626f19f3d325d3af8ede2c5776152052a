@@ -1,0 +1,13 @@
+
+Zsquid:S1481"&Remove this unused "c" local variable.(¯ÓÓÃ8Áˆ¡í—.HÑRMINORZ
+CODE_SMELL
+Zsquid:S1481"&Remove this unused "a" local variable.(ôê˜Ž8˜þ¤í—.HÛRMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(þ…ï“8ë¨¦í—.HàRMAJORZ
+CODE_SMELL
+isquid:S1854"5Remove this useless assignment to local variable "a".(ôê˜Ž8˜þ¤í—.HÚRMAJORZ
+CODE_SMELL
+ysquid:S2153"LRemove the boxing to "<nulltype>"; The argument is already of the same type.(ôê˜Ž8¼Ž¤í—.H×RMINORZBUG
+squid:CommentedOutCodeLine
+"<This block of commented-out lines of code should be removed.(ÂÞ½„8†¥Àñ—.HäRMAJORZ
+CODE_SMELL

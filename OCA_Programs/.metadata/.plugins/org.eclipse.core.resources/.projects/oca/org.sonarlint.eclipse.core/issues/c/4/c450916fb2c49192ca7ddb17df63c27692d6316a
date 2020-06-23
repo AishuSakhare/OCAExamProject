@@ -1,0 +1,27 @@
+
+hsquid:EmptyStatementUsageCheck"Remove this empty statement.(ˆ•¶÷şÿÿÿÿ8çò—™.HİRMINORZ
+CODE_SMELL
+p"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ÒÓŞë8Öæ—™.HÓRCRITICALZ
+CODE_SMELL
+osquid:S1854"6Remove this useless assignment to local variable "sa".(è÷Ï›ûÿÿÿÿ8Òû¤—™.HåRMAJORZ
+CODE_SMELL
+squid:S1871"HThis case's code block is the same as the block for the case on line 13.(ˆ•¶÷şÿÿÿÿ8çò—™.HØRMAJORZ
+CODE_SMELL
+†
+squid:S128"LEnd this switch case with an unconditional break, return or throw statement.(Á—ßûÿÿÿÿ8çò—™.HÚRBLOCKERZ
+CODE_SMELL
+hsquid:EmptyStatementUsageCheck"Remove this empty statement.(Á—ßûÿÿÿÿ8çò—™.HÛRMINORZ
+CODE_SMELL
+`squid:S1481"'Remove this unused "sa" local variable.(è÷Ï›ûÿÿÿÿ8Òû¤—™.HæRMINORZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾ìğŸûÿÿÿÿHÀRMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine
+"<This block of commented-out lines of code should be removed.(ä×ìì8Òû¤—™.HçRMAJORZ
+CODE_SMELL
+squid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ÒÓŞë8óõ¨—™.HêRMINORZ
+CODE_SMELL
+isquid:S1854"5Remove this useless assignment to local variable "s".(ó»ŒÑ8óõ¨—™.HëRMAJORZ
+CODE_SMELL
+Zsquid:S1481"&Remove this unused "s" local variable.(ó»ŒÑ8óõ¨—™.HìRMINORZ
+CODE_SMELL

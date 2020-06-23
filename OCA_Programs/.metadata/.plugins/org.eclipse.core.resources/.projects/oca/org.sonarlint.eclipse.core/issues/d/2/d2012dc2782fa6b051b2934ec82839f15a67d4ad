@@ -1,0 +1,13 @@
+
+isquid:S1854"5Remove this useless assignment to local variable "q".(ÔøÑ¿8ğùšÅ˜.H‰RMAJORZ
+CODE_SMELL
+lsquid:S1197"8Move the array designator from the variable to the type.(ìúÒ 8ğùšÅ˜.HŠRMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÂÕÂÆ8Àô Å˜.H–RMAJORZ
+CODE_SMELL
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÚÌÀòH†RMINORZ
+CODE_SMELL
+ksquid:S1226">Introduce a new variable instead of reusing the parameter "q".(ÔøÑ¿8ÕÜÅ˜.HRMINORZBUG
+Zsquid:S1481"&Remove this unused "q" local variable.(×¡Øã8ğùšÅ˜.H‹RMINORZ
+CODE_SMELL

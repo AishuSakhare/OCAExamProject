@@ -1,0 +1,8 @@
+
+Zsquid:S1481"'Remove this unused "c3" local variable.(·ÈU8‚‘™›.H¹RMINORZ
+CODE_SMELL
+lsquid:S1226	"?Introduce a new variable instead of reusing the parameter "cb".(ÃÆĞˆ8Ğú–›.HµRMINORZBUG
+isquid:S1854"6Remove this useless assignment to local variable "c3".(·ÈU8‚‘™›.H¸RMAJORZ
+CODE_SMELL
+jsquid:S1854"6Remove this useless assignment to local variable "c1".(µÇ¿8‚‘™›.H·RMAJORZ
+CODE_SMELL

@@ -1,0 +1,7 @@
+package com.capgemini.oca.corrrected;
+
+public class Question6Earcth extends Question6Planet{
+
+	
+	
+}

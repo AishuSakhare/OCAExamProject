@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=oca/src&amp;lt;com.capgemini.oca.OCA_SET1{Question16.java[TestEqual&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=oca/src&amp;lt;com.capgemini.oca.OCA_SET1{Question18.java[University&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=oca/src&amp;lt;com.capgemini.oca.practiceQ_set2{Question2.java[TestStudent&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=oca/src&amp;lt;com.capgemini.oca.practiceQ_Icompas{Question5.java[Test1&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=oca/src&amp;lt;com.capgemini.oca.surprise_test{Question12.java[Shuttle&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=oca/src&amp;lt;com.capgemini.oca.final_test{Question16.java[SubClass&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=oca/src&amp;lt;com.capgemini.oca.OCP_test_que{Question16.java[Program&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="80"/>
+			<item key="DIALOG_Y_ORIGIN" value="34"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+</section>

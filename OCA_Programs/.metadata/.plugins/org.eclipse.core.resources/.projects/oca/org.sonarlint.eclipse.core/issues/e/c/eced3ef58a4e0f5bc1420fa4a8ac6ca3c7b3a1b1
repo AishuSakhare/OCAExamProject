@@ -1,0 +1,31 @@
+
+jsquid:S1854"6Remove this useless assignment to local variable "i6".( Υβ8ίξª›.HίRMAJORZ
+CODE_SMELL
+jsquid:S1854	"6Remove this useless assignment to local variable "i4".(ΈªΪ΄8ίξª›.HαRMAJORZ
+CODE_SMELL
+[squid:S1481"'Remove this unused "i2" local variable.(»Ρ’£8ίξª›.HζRMINORZ
+CODE_SMELL
+`squid:S1481
+"'Remove this unused "i5" local variable.(ΞΏΡ»ώÿÿÿÿ8ίξª›.HιRMINORZ
+CODE_SMELL
+[squid:S1481	"'Remove this unused "i4" local variable.(ΈªΪ΄8ίξª›.HθRMINORZ
+CODE_SMELL
+`squid:S1481"'Remove this unused "i1" local variable.(ΊΐÒ–όÿÿÿÿ8ίξª›.HεRMINORZ
+CODE_SMELL
+osquid:S1854"6Remove this useless assignment to local variable "b3".(ξ–Ηÿÿÿÿÿ8ΓΥΉ›.HϋRMAJORZ
+CODE_SMELL
+`squid:S1481"'Remove this unused "i7" local variable.(½ΦΌ­ϋÿÿÿÿ8ϊΖ¶›.HωRMINORZ
+CODE_SMELL
+osquid:S1854"6Remove this useless assignment to local variable "i7".(½ΦΌ­ϋÿÿÿÿ8ϊΖ¶›.HψRMAJORZ
+CODE_SMELL
+osquid:S1854
+"6Remove this useless assignment to local variable "i5".(ΞΏΡ»ώÿÿÿÿ8ίξª›.HΰRMAJORZ
+CODE_SMELL
+jsquid:S1854"6Remove this useless assignment to local variable "i2".(»Ρ’£8ίξª›.HγRMAJORZ
+CODE_SMELL
+[squid:S1481"'Remove this unused "b3" local variable.(„ΕΈ•8ΓΥΉ›.HόRMINORZ
+CODE_SMELL
+osquid:S1854"6Remove this useless assignment to local variable "i1".(ΊΐÒ–όÿÿÿÿ8ίξª›.HδRMAJORZ
+CODE_SMELL
+[squid:S1481"'Remove this unused "i6" local variable.( Υβ8ίξª›.HκRMINORZ
+CODE_SMELL

@@ -1,0 +1,8 @@
+
+Zsquid:S2129	"!Remove this "Boolean" constructor(ο£Φξωÿÿÿÿ8ηΜΩ.HΡ*RMAJORZ
+CODE_SMELL
+~squid:S2153
+"LRemove the boxing to "<nulltype>"; The argument is already of the same type.(νδ―¬ÿÿÿÿÿ8°λέ.HÒ*RMINORZBUG
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡§εύÿÿÿÿ8ϊεΫ.HΣ*RMAJORZ
+CODE_SMELL

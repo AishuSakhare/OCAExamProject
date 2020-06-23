@@ -1,0 +1,12 @@
+
+asquid:S1905".Remove this unnecessary cast to "Question95A".(ïÛáS8È’Ï±.H†RMINORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(öôÊ¡HøRMAJORZ
+CODE_SMELL
+nsquid:S1161":Add the "@Override" annotation above this method signature(İü²ó8çõÊ±.HRMAJORZ
+CODE_SMELL
+jsquid:S1854	"6Remove this useless assignment to local variable "b1".(ùµá–8èÅÈ±.HûRMAJORZ
+CODE_SMELL
+bsquid:S1905".Remove this unnecessary cast to "Question95B".(¹¬êÈ8È’Ï±.H‡RMINORZ
+CODE_SMELL

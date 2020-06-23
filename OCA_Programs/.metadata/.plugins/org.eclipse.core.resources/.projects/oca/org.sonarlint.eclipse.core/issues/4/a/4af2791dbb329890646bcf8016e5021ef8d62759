@@ -1,0 +1,25 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ùÿÍíþÿÿÿÿ8äâçæ—.HÀRMAJORZ
+CODE_SMELL
+Zsquid:S1481"'Remove this unused "b2" local variable.(þõñ+8ä¹ñæ—.HÏRMINORZ
+CODE_SMELL
+isquid:S1854"6Remove this useless assignment to local variable "b2".(þõñ+8ä¹ñæ—.HÉRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(„Îè¯þÿÿÿÿ8äâçæ—.HÂRMAJORZ
+CODE_SMELL
+jsquid:S1854
+"6Remove this useless assignment to local variable "b1".(µà©©8ä¹ñæ—.HÊRMAJORZ
+CODE_SMELL
+nsquid:S1161":Add the "@Override" annotation above this method signature(Ýü²ó8ä¹ñæ—.HÍRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Õ©à™þÿÿÿÿ8ä¹ñæ—.HÎRMAJORZ
+CODE_SMELL
+nsquid:S1161":Add the "@Override" annotation above this method signature(Ýü²ó8ä¹ñæ—.HÇRMAJORZ
+CODE_SMELL
+`squid:S1905"'Remove this unnecessary cast to "Base".(ˆÿ’îþÿÿÿÿ8×ÿ÷æ—.HÕRMINORZ
+CODE_SMELL
+dsquid:S1905"+Remove this unnecessary cast to "DerivedA".(ÏëÒ»þÿÿÿÿ8×ÿ÷æ—.HÖRMINORZ
+CODE_SMELL

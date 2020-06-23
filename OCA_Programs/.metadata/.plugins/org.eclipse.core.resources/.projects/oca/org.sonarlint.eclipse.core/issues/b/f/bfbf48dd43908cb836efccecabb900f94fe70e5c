@@ -1,0 +1,8 @@
+
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¡äÝ˜üÿÿÿÿ8‹¨ìÓ–.HöRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(²¨ç÷8õžºÓ–.HãRMAJORZ
+CODE_SMELL
+zsquid:UselessImportCheck"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8ïÉàÓ–.HëRMINORZ
+CODE_SMELL

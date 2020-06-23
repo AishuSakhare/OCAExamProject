@@ -1,0 +1,19 @@
+
+ˆsquid:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(Òþž’ýÿÿÿÿ8½ö¾™—.HóRMAJORZBUG
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(åö¡½úÿÿÿÿ8½ö¾™—.HôRMAJORZ
+CODE_SMELL
+}squid:S1858
+"D"s" is already a string, there's no need to call "toString()" on it.(‚ÐÜ‚ùÿÿÿÿ8Ú—Æ™—.H€RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆà…£8âþÃ™—.HûRMAJORZ
+CODE_SMELL
+q
+squid:S106	"9Replace this use of System.out or System.err by a logger.(×µ²ÿýÿÿÿÿ8¤ÚÀ™—.HöRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÙïÙÛùÿÿÿÿ8¤ÚÀ™—.H÷RMAJORZ
+CODE_SMELL
+}squid:S1858	"D"s" is already a string, there's no need to call "toString()" on it.(×µ²ÿýÿÿÿÿ8€ÜÇ™—.HƒRMINORZ
+CODE_SMELL

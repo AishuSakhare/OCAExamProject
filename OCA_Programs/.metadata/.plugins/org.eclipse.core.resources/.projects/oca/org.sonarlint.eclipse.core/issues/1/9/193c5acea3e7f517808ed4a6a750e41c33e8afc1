@@ -1,0 +1,20 @@
+
+€squid:S00112
+"FDefine and throw a dedicated exception instead of using a generic one.(¸Šòéüÿÿÿÿ8ÈÜ¨•›.HıRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(»ˆ°±úÿÿÿÿ8ÈÜ¨•›.H‚ RMAJORZ
+CODE_SMELL
+dsquid:S1172
+"+Remove this unused method parameter "data".(¸Šòéüÿÿÿÿ8ÈÜ¨•›.HÿRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Áœ®Ğüÿÿÿÿ8ÈÜ¨•›.H€ RMAJORZ
+CODE_SMELL
+¿%squid:RedundantThrowsDeclarationCheck
+"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¸Šòéüÿÿÿÿ8ÈÜ¨•›.HşRMINORZ
+CODE_SMELL
+nsquid:S1161":Add the "@Override" annotation above this method signature(«à¦â8ÈÜ¨•›.H RMAJORZ
+CODE_SMELL
+¸squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8å°ª•›.Hƒ RCRITICALZ
+CODE_SMELL

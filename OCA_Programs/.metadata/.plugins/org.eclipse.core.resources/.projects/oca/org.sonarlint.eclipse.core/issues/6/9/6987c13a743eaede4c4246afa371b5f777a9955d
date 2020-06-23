@@ -1,0 +1,20 @@
+
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°«µªHRMINORZ
+CODE_SMELL
+ƒsquid:S3973"GUse indentation to denote the code conditionally executed by this "if".(Ô¡‘Îıÿÿÿÿ8·¨È˜.HRCRITICALZ
+CODE_SMELL
+~squid:S3973
+"GUse indentation to denote the code conditionally executed by this "if".(¡•¶ç8·¨È˜.HRCRITICALZ
+CODE_SMELL
+»squid:S2681
+"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(¡•¶ç8·¨È˜.H‘RMAJORZ
+CODE_SMELL
+ksquid:S4973"9Use the "equals" method if value comparison was intended.(Ô¡‘Îıÿÿÿÿ8·¨È˜.H’RMAJORZBUG
+Ysquid:S2129" Remove this "String" constructor(’âÙØÿÿÿÿÿ8·¨È˜.H“RMAJORZ
+CODE_SMELL
+l
+squid:S106	"9Replace this use of System.out or System.err by a logger.(ü¡Ü£8·¨È˜.H”RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¯ç›Ÿûÿÿÿÿ8·¨È˜.H•RMAJORZ
+CODE_SMELL
